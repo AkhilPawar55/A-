@@ -34,4 +34,7 @@ Out of Bounds	10000000000000
 
 Other factors are the same.
 
+![alt text](https://github.com/AkhilPawar55/A-/blob/master/AnotherPersonWhiteRoute.png?raw=true)
+Another person traversing white route
+
 The route path taken by other person is shown in magenta and my path is shown in red. You can see that the teenage kid quickly traverses through open land and on footpaths but has hard time in slow walk forests and rough meadow.
