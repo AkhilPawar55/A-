@@ -18,6 +18,15 @@ For the elevation difference, I calculated the difference in elevation between t
 Then adding up all these values gives me my cost function.
 I was able to traverse a classic event in under the acceptable time limit of 2 seconds. In classic event I traversed from the start location to end location though the list of controls in sequence of the route.
 
+![alt text](https://github.com/AkhilPawar55/A-/blob/master/WhiteRoute.png?raw=true)
+White Route
+
+![alt text](https://github.com/AkhilPawar55/A-/blob/master/RedRoute.png?raw=true)
+Red Route
+
+![alt text](https://github.com/AkhilPawar55/A-/blob/master/BrownRoute.png?raw=true)
+Brown Route
+
 For the search for other person, I have considered the other person as a teenage kid.
 I have changed the heuristic values as:
 Terrain Type	Speed factor
